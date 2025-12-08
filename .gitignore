@@ -1,2 +1,53 @@
-./output
-./venv
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Output & Results
+output/
+*.pt
+*.pth
+*.pkl
+*.h5
+*.png
+*.jpg
+*.jpeg
+model_config.json
+model_metrics.json
+training_history.png
+emotion_performance.png
+
+# Dataset (preprocessed besar, bisa di-regenerate)
+dataset_preprocessed.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
