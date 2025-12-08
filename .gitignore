@@ -18,9 +18,6 @@ model_metrics.json
 training_history.png
 emotion_performance.png
 
-# Dataset (preprocessed besar, bisa di-regenerate)
-dataset_preprocessed.csv
-
 # Python
 __pycache__/
 *.py[cod]
