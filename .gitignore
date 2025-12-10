@@ -18,6 +18,19 @@ model_metrics.json
 training_history.png
 emotion_performance.png
 
+output2/
+*.pt
+*.pth
+*.pkl
+*.h5
+*.png
+*.jpg
+*.jpeg
+model_config.json
+model_metrics.json
+training_history.png
+emotion_performance.png
+
 # Python
 __pycache__/
 *.py[cod]
